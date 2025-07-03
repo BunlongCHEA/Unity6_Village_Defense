@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03d60d0fd8c9c5a4bb924ce158f42611, type: 3}
+  m_Name: Gem
+  m_EditorClassIdentifier: 
+  itemName: Gem
+  itemIcon: {fileID: 843082311582729835, guid: 82516abdd76c96c459ad9956ee6eebea, type: 3}
+  isStackable: 1
+  maxStackSize: 50
+  description: Drop from monster, used for buy equipment and power-up Tower
+  isEquippable: 0
+  equipmentType: 0
+  dropChance: 0.7
+  minDropQuantity: 1
+  maxDropQuantity: 2
+  dropSpreadRadius: 1
+  useRandomSpread: 1

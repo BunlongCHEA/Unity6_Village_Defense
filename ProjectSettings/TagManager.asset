@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - PlayerSpawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - PhysicObj
+  - Items
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3509848747
+    locked: 0
+  - name: Ground1
+    uniqueID: 3621738917
+    locked: 0
+  - name: WalkInFront
+    uniqueID: 338968361
+    locked: 0
+  - name: Collision
+    uniqueID: 1371000987
+    locked: 0
+  - name: Enermy
+    uniqueID: 709103379
+    locked: 0
+  - name: Player
+    uniqueID: 2418391769
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 2449893977
+    locked: 0
+  - name: BushRock
+    uniqueID: 2918490395
+    locked: 0
+  - name: Tree
+    uniqueID: 3677329889
+    locked: 0
+  - name: Decor
+    uniqueID: 864629217
+    locked: 0
+  - name: Items
+    uniqueID: 2396679569
+    locked: 0
+  m_RenderingLayers:
+  - Default
